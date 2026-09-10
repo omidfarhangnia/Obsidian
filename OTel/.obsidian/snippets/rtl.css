@@ -1,0 +1,22 @@
+.markdown-source-view.mod-cm6 .cm-editor {
+    direction: rtl !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-scroller {
+    direction: rtl !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content {
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-line {
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+.markdown-preview-view {
+    direction: rtl !important;
+    text-align: right !important;
+}
