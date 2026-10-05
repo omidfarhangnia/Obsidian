@@ -5,11 +5,11 @@
 
 اول باید بفهمیم **زمین زیر پایمان امن و مناسب هست یا نه**:
 
-- نسخه و Edition ویندوز
-- وضعیت Windows Update
-- CPU virtualization
-- SLAT
-- Secure Boot
+- [x] نسخه و Edition ویندوز
+- [x] وضعیت Windows Update
+- [x] CPU virtualization
+- [x] SLAT
+- Secure Boot #weAreHere
 - TPM
 - VBS / HVCI
 - RAM / CPU / Storage
