@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OTel Official Docs.md",
+                "file": "OTel Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OTel Official Docs"
+              "title": "OTel Map"
             }
           }
         ]
@@ -188,16 +188,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "e33c0c59ea1a244a",
+  "active": "64c991eb7be4eacf",
   "lastOpenFiles": [
+    "VM Roadmap.md",
+    "OTel Roadmap.md",
+    "OTel Official Docs.md",
+    "OTel Map.md",
+    "VM.md",
     "images/Pasted image 20260910144518.png",
     "images/Pasted image 20260910144243.png",
-    "OTel Official Docs.md",
     "Pasted image 20260910144243.png",
     "images",
     "New folder",
     "Pasted image 20260910144241.png",
-    "roadmap.md",
     "Welcome.md"
   ]
 }

@@ -1,4 +1,5 @@
 ## OpenTelemetry چیست؟
+[OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/) is the mechanism by which application code is instrumented to help make a system observable.
 
 **OpenTelemetry** یک:
 - **observability framework and toolkit** است که با هدف تسهیل موارد زیر طراحی شده است:
@@ -9,6 +10,14 @@
 - **traces**
 - **metrics**
 - **logs**
+- profiles
+
+| Signal       | Question                                                       |
+| ------------ | -------------------------------------------------------------- |
+| **Logs**     | What discrete events occurred? (insights into system behavior) |
+| **Metrics**  | What is happening at the system level? (e.g. CPU usage is 90%) |
+| **Traces**   | How does a request travel through a distributed system?        |
+| **Profiles** | Which code is responsible for consuming resources?             |
 
 > [!tip]  OpenTelemetry is **not** an observability backend itself.
 
@@ -65,3 +74,4 @@ OpenTelemetry دو روش اصلی برای export دارد:
 ### OTLP و OpenTelemetry Collector
 
 OpenTelemetry از یک **wire protocol** به نام `OTLP` پشتیبانی می‌کند که توسط تمام OpenTelemetry SDKها پشتیبانی می‌شود.
+
