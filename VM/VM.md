@@ -45,3 +45,4 @@ VirtualizationFirmwareEnabled یک ویژگی در سیستم عامل ویند�
 ### SecondLevelAddressTranslationExtensions : True
 
 SecondLevel Address Translation Extensions (SLAT) یک قابلیت سخت‌افزاری است که به ویندوز کمک می‌کند تا عملکرد مجازی‌سازی را بهتر انجام دهد.
+

@@ -9,16 +9,14 @@
 - [x] وضعیت Windows Update
 - [x] CPU virtualization
 - [x] SLAT
-- Secure Boot #weAreHere
-- TPM
-- VBS / HVCI
-- RAM / CPU / Storage
-- وضعیت BitLocker
-- وضعیت Windows Defender و Firewall
+- [x] Secure Boot
+- [x] TPM
+- [x] VBS / HVCI
+- [x] RAM / CPU / Storage
+- [x] وضعیت BitLocker
+- [x] وضعیت Windows Defender و Firewall
 
 این موضوع برای هدف تو حیاتی است، چون **Host خودش بخشی از مرز امنیتی Sandbox است**. Microsoft نیز روی به‌روز بودن Host، Firmware و Driverها و سخت‌گیری روی خود Hyper-V Host تأکید می‌کند.
-
-یک نکته مهم دیگر: Windows 10 از **14 اکتبر 2025** به پایان پشتیبانی عمومی رسیده است. بنابراین در Phase 0 مشخص می‌کنیم آیا Host فعلی باید به Windows 11 ارتقا پیدا کند یا تحت ESU است؛ برای یک آزمایشگاه پرریسک، این موضوع را نمی‌توان نادیده گرفت.
 
 **خروجی فاز:** یک Host شناخته‌شده و مناسب برای شروع.
 

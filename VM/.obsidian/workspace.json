@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "VM Roadmap"
             }
+          },
+          {
+            "id": "48e9a9ea952a4fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VM Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VM Roadmap"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,9 +203,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b026c465abb954d4",
+  "active": "48e9a9ea952a4fac",
   "lastOpenFiles": [
     "VM.md",
+    "Current State.md",
     "VM Roadmap.md",
     "Welcome.md"
   ]
